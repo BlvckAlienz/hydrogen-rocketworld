@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../../../../app/routes/_index.jsx"],
+  "sourcesContent": ["export function meta() {\r\n    return [\r\n      {title: 'Blvck Market'},\r\n      {description: 'A custom storefront powered by Hydrogen'},\r\n    ];\r\n  }\r\n  \r\n  export default function Index() {\r\n    return (\r\n      <div>\r\n        <h3>Welcome to Your Local Blvck Market!</h3>\r\n      </div>\r\n    );\r\n  }\r\n  "],
+  "mappings": ";;;;;;;;AAUQ;AAVD,SAAS,OAAO;AACnB,SAAO;AAAA,IACL,EAAC,OAAO,eAAc;AAAA,IACtB,EAAC,aAAa,0CAAyC;AAAA,EACzD;AACF;AAEe,SAAR,QAAyB;AAC9B,SACE,mDAAC,SACC,6DAAC,QAAG,mDAAJ;AAAA;AAAA;AAAA;AAAA,SAAuC,KADzC;AAAA;AAAA;AAAA;AAAA,SAEA;AAEJ;",
+  "names": []
+}
